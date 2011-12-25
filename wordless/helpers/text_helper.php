@@ -64,6 +64,7 @@ class TextHelper {
       array( 'sex',    'sexes'    ),
       array( 'child',  'children' ),
       array( 'man',    'men'      ),
+	  array( 'woman',  'women'	  ),
       array( 'person', 'people'   )
       );
 
